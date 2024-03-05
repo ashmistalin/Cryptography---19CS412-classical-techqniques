@@ -181,6 +181,7 @@ int main()
 
 ```
 ## OUTPUT:
+![Screenshot (489)](https://github.com/ashmistalin/Vigenere_Cipher/assets/103128410/609d2278-16ed-4e5e-953b-faaa5ae0aa95)
 
 ## RESULT:
 The program is executed successfully
